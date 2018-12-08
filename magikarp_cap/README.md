@@ -11,5 +11,10 @@ The pattern is available online, _in french_ at:
 * [Part 6](https://thalicreations.com/2016/08/19/bonnet-magicarpe-6/)
 * [Part 7](https://thalicreations.com/2016/08/20/bonnet-magicarpe-7/)
 
-## Result
+## Material
+
+* 3 balls of red wool
+* White wool
+* Yellow wool
+* Pink wool
 
