@@ -1,7 +1,7 @@
 
 ## Magikarp cap
 
-The pattern is available online, _in french_ a
+The pattern is available online, _in french_ at:
 * [Part 1](https://thalicreations.com/2015/11/15/bonnet-magicarpe/)
 * [Part 1](https://thalicreations.com/2016/08/10/bonnet-magicarpe-1/)
 * [Part 2](https://thalicreations.com/2016/08/11/bonnet-magicarpe-2/)
