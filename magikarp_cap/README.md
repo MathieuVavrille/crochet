@@ -1,5 +1,5 @@
 
-## Magikarp cap
+# Magikarp cap
 
 The pattern is available online, _in french_ at:
 * [Part 1](https://thalicreations.com/2015/11/15/bonnet-magicarpe/)
