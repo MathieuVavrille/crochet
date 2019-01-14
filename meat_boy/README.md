@@ -25,7 +25,7 @@ Do a magic knot of 6 sc, sl st, 6 aug, sl st, then one rank, then do 10 sc, star
 
 Start from a foot, do X ch, and then turn sc on the next foot. Choose X such that the foot are well spaced (I don't remember for mine). Then turn, X-1 sc on the chain, sc on the first foot, turn X-2 sc, sc on the foot, turn X-1 sc, sc on the foot, turn X sc, and then do a lot of ranks in spiral.
 
-When it is big enough, you will just keep on doing some ranks with diminutions. A rank will be of the form: dec, sc, dec, sc, dec, sc*X, dec, sc*X, dec, sc, dec, sc, dec, sc*X, dec, sc*X. The idea is that we want to do an elipsis and not a circle for the top of the head, so the decreases will be above the arms.
+When it is big enough, you will just keep on doing some ranks with diminutions. A rank will be of the form: dec, sc, dec, sc, dec, sc\*X, dec, sc\*X, dec, sc, dec, sc, dec, sc\*X, dec, sc\*X. The idea is that we want to do an elipsis and not a circle for the top of the head, so the decreases will be above the arms.
 
 ### Eyes
 
