@@ -25,3 +25,8 @@ ch = chain
 What I call rank increase is a way to turn a cylinder such that it will be curved. To do it start by doing circles of the same size. Then about when you want to turn, just do 4 stitches, then turn back, do 4 stitches on the ones you did, and keep on on the same direction. When arriving after the 4 stitches of the beginning, turn back once more and keep on as usual.
 
 It is easier to do when working in spiral, but it is also possible in rounds.
+
+### To do a ball
+
+My way to do a ball is to do a magic knot with 6 sc, then aug on the rank, then (sc, aug), then (sc, sc, aug), ... Then you do normal ranks (the same number as the number of augmenting ranks). Then you decrease.
+
