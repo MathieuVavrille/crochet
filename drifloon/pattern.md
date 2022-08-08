@@ -1,6 +1,6 @@
 # Drifloon pattern
 
-## Picture
+## Result
 
 ![test](./finished.png "truc")
 
@@ -52,3 +52,8 @@ A long double chain.
 Do a chain of 10, 2sc, decrease by 2, 2 sc, increase by 5, 3 sc, increase by 2, 2 sc, increase by 5, slip-stitch.
 Do it twice.
 You can either stitch the hands to the arms when they are finished, or during the making of the hands to hide remaining wool.
+
+
+## Difficulty
+
+2/5 overall, 4/5 for the cloud. I mostly improvised. The cloud is kind of hard to do because it is very small.
