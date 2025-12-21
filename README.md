@@ -13,8 +13,8 @@
 ### Korok
 
 <p>
-  <img src="pictures/korok.jpg" width="45%" />
-  <img src="pictures/original/korok_original.jpg" width="45%" />
+  <img src="pictures/korok_front.jpg" width="45%" />
+  <img src="pictures/original/korok_original.png" width="45%" />
 </p>
 
 
@@ -64,11 +64,17 @@ Pattern [here](patterns/meat_boy_pattern.md)
 Pattern [here](patterns/judas_pattern.md)
 
 
+### Among Us
+
+<p>
+  <img src="pictures/sus.jpg" width="45%" />
+  <img src="pictures/original/sus_original.png" width="45%" />
+</p>
+
+
 ### Luma (Super Mario Galaxy)
 
 <p>
-  <img src="pictures/luma.png" width="45%" />
-  <img src="pictures/original/luma_original.png" width="45%" />
+  <img src="pictures/luma.jpg" width="45%" />
+  <img src="pictures/original/luma_original.webp" width="45%" />
 </p>
-
-Pattern [here](patterns/drifloon_pattern.md)
