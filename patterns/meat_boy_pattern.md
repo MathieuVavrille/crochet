@@ -1,9 +1,9 @@
 
 # Meat Boy
 
-Meat Boy from Super Meat Boy. The pattern is inspired from an image of the game.
+Meat Boy from Super Meat Boy.
 
-![alt text](front.png "front") ![alt text](back.png "back")
+![alt text](../pictures/meat_boy_front.png "front") ![alt text](../pictures/meat_boy_back.png "back") ![alt text](../pictures/original/meat_boy_original.jpg "Original")
 
 ## Material
 
