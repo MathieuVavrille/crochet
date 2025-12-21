@@ -8,7 +8,7 @@
   <img src="pictures/drifloon.png" width="45%" />
   <img src="pictures/original/drifloon_original.png" width="45%" />
 </p>
-Pattern [here](./patterns/drifloon_pattern.md)
+Pattern [here](patterns/drifloon_pattern.md)
 
 
 ### Beldum
@@ -25,7 +25,7 @@ Pattern [here](./patterns/drifloon_pattern.md)
   <img src="pictures/meat_boy_front.png" width="45%" />
   <img src="pictures/original/meat_boy_original.png" width="45%" />
 </p>
-Pattern [here](./patterns/meat_boy_pattern.md)
+Pattern [here](patterns/meat_boy_pattern.md)
 
 
 ### Judas (The Binding of Isaac)
@@ -34,4 +34,4 @@ Pattern [here](./patterns/meat_boy_pattern.md)
   <img src="pictures/judas_front.png" width="45%" />
   <img src="pictures/original/judas_original.png" width="45%" />
 </p>
-Pattern [here](./patterns/judas_pattern.md)
+Pattern [here](patterns/judas_pattern.md)
