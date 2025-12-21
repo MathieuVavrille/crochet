@@ -4,29 +4,34 @@
 
 ### Drifloon
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<p>
   <img src="pictures/drifloon.png" width="45%" />
   <img src="pictures/original/drifloon_original.png" width="45%" />
-</div>
-Pattern [here](patterns/drifloon_pattern.md)
+</p>
+Pattern [here](./patterns/drifloon_pattern.md)
+
 
 ### Beldum
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<p>
   <img src="pictures/beldum.png" width="45%" />
   <img src="pictures/original/beldum_original.png" width="45%" />
-</div>
+</p>
+
 
 ### Meat Boy
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<p>
   <img src="pictures/meat_boy_front.png" width="45%" />
   <img src="pictures/original/meat_boy_original.png" width="45%" />
-</div>
-Pattern [here](patterns/meat_boy_pattern.md)
+</p>
+Pattern [here](./patterns/meat_boy_pattern.md)
 
 
+### Judas (The Binding of Isaac)
 
-## Patterns
-
-You can find some paterns that I created in the [patterns folder](./patterns). When I create something, I rarely write down the pattern. If you would like to do it yourself you can contact me directly and I can try to remember (or at least give you tips).
+<p>
+  <img src="pictures/judas_front.png" width="45%" />
+  <img src="pictures/original/judas_original.png" width="45%" />
+</p>
+Pattern [here](./patterns/judas_pattern.md)

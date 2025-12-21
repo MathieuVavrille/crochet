@@ -1,6 +1,6 @@
 # Juda's head (The binding of isaac)
 
-![alt text][front.png "front"] ![alt text][back.png "back]
+![Back][../pictures/judas_front.png "front"] ![Front][../pictures/judas_back.png "back"]
 
 ## Material
 
