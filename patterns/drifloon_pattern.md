@@ -2,7 +2,7 @@
 
 ## Result
 
-![test](./finished.png "truc")
+![test](../pictures/drifloon.png "drifloon")
 
 ## Pattern
 
