@@ -67,7 +67,7 @@ Pattern [here](patterns/meat_boy_pattern.md)
 
 <p>
   <img src="pictures/microctopus-clash-of-decks.jpg" width="45%" />
-  <img src="pictures/original/microctopus_original.jpg" width="45%" />
+  <img src="pictures/original/microctopus_original.png" width="45%" />
 </p>
 
 
