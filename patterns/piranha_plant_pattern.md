@@ -1,6 +1,6 @@
 # Piranha Plant (Mario)
 
-![alt text](front.png "front") ![alt text](back.png "back")
+![alt text](/pictures/piranha_plant_front.png "front") ![alt text](piranha_plant_back.png "back")
 
 ## Material
 

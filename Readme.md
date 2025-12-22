@@ -2,19 +2,19 @@
 
 ## All my creations
 
-### Chu-Totoro
-
-<p>
-  <img src="pictures/chu_totoro.jpg" width="45%" />
-  <img src="pictures/original/chu_totoro_original.jpg" width="45%" />
-</p>
-
-
 ### Korok
 
 <p>
   <img src="pictures/korok_front.jpg" width="45%" />
   <img src="pictures/original/korok_original.png" width="45%" />
+</p>
+
+
+### Chu-Totoro
+
+<p>
+  <img src="pictures/chu_totoro.jpg" width="45%" />
+  <img src="pictures/original/chu_totoro_original.jpg" width="45%" />
 </p>
 
 
@@ -25,6 +25,15 @@
   <img src="pictures/original/kirby_original.jpg" width="45%" />
 </p>
 
+
+### Korok
+
+<p>
+  <img src="pictures/piranha_plant_front.png" width="45%" />
+  <img src="pictures/original/piranha_plant_original.png" width="45%" />
+</p>
+
+Pattern [here](patterns/piranha_plant_pattern.md)
 
 ### Drifloon
 
@@ -54,6 +63,14 @@ Pattern [here](patterns/drifloon_pattern.md)
 Pattern [here](patterns/meat_boy_pattern.md)
 
 
+### Microctopus (Clash of Decks)
+
+<p>
+  <img src="pictures/microctopus-clash-of-decks.jpg" width="45%" />
+  <img src="pictures/original/microctopus_original.jpg" width="45%" />
+</p>
+
+
 ### Judas (The Binding of Isaac)
 
 <p>
@@ -77,4 +94,16 @@ Pattern [here](patterns/judas_pattern.md)
 <p>
   <img src="pictures/luma.jpg" width="45%" />
   <img src="pictures/original/luma_original.webp" width="45%" />
+</p>
+
+
+### Misc
+
+<p>
+  <img src="pictures/jellyfish.jpg" width="45%" />
+  <img src="pictures/baby_game.jpg" width="45%" />
+</p>
+<p>
+  <img src="pictures/login-association-logo.jpg" width="45%" />
+  <img src="pictures/octopus.png" width="45%" />
 </p>
