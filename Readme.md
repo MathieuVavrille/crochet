@@ -101,7 +101,7 @@ Pattern [here](patterns/judas_pattern.md)
 
 <p>
   <img src="pictures/jellyfish.jpg" width="45%" />
-  <img src="pictures/baby_game.jpg" width="45%" />
+  <img src="pictures/baby-game.jpg" width="45%" />
 </p>
 <p>
   <img src="pictures/login-association-logo.jpg" width="45%" />
