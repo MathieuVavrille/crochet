@@ -25,7 +25,7 @@
   <img src="pictures/original/hornet_silksong_original.jpg" width="45%" />
 </p>
 
-Pattern by Amigunaru, see the video [here](https://www.youtube.com/watch?v=n6SHfRfUei0)
+Pattern by Amigumaru, see the video [here](https://www.youtube.com/watch?v=n6SHfRfUei0)
 
 
 ### Kirby
