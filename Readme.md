@@ -25,6 +25,8 @@
   <img src="pictures/original/hornet_silksong_original.jpg" width="45%" />
 </p>
 
+Pattern by Amigunaru, see the video [here](https://www.youtube.com/watch?v=n6SHfRfUei0)
+
 
 ### Kirby
 
@@ -34,7 +36,7 @@
 </p>
 
 
-### Korok
+### Piranha Plant
 
 <p>
   <img src="pictures/piranha_plant_front.png" width="45%" />
@@ -87,6 +89,14 @@ Pattern [here](patterns/meat_boy_pattern.md)
 </p>
 
 Pattern [here](patterns/judas_pattern.md)
+
+
+### Isaac (The Binding of Isaac)
+
+<p>
+  <img src="pictures/isaac.jpg" width="45%" />
+  <img src="pictures/original/isaac_original.webp" width="45%" />
+</p>
 
 
 ### Among Us
