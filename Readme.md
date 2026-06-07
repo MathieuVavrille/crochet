@@ -18,6 +18,14 @@
 </p>
 
 
+### Hornet (Hollow Knight: Silksong)
+
+<p>
+  <img src="pictures/hornet_silksong.jpg" width="45%" />
+  <img src="pictures/original/hornet_silksong_original.jpg" width="45%" />
+</p>
+
+
 ### Kirby
 
 <p>
